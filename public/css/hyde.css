@@ -57,12 +57,12 @@ html {
   	/*text-align: center;*/
   	padding: 2rem 1rem;
   	color: rgba(255,255,255,.5);
- 	background-color: #E8E8EE;
+ 	background-color: #A6C7CF;
 }
 
 .sidebar-head {
 	width: 12rem;
-	background-color: #d3d3d3;
+	background-color: #4A818E;
 }
 
 @media (min-width: 48em) {
