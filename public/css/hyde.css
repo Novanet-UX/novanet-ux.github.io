@@ -78,11 +78,15 @@ html {
 
 .sidebar-title {
 	text-align: center;
+}
+
+a.sidebar-title {
 	color: #FFFFFF;
 }
 
-.sidebar-title a{
-	text-decoration: none;
+a.sidebar-title:hover,
+a.sidebar-title:focus {
+ 	text-decoration: none;
 	font-weight: bold;
 }
 
