@@ -75,16 +75,16 @@ html {
     text-align: left;
   }
 }
-/*
-.sidebar-title {
+
+.sidebar-title a{
 	text-align: center;
 	color: #ffffff;
 }
-*/
+/*
 .sidebar-title a {
 	color: #ffffff;	
 }
-
+*/
 a.sidebar-title:hover,
 a.sidebar-title:focus{
 	text-decoration: none;
