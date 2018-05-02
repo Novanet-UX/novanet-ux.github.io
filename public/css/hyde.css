@@ -81,14 +81,13 @@ html {
 	color: #FFFFFF;
 }
 
-.sidebar-title a {
+a.sidebar-title {
 	color: #FFFFFF;
 }
 
 a.sidebar-title:hover,
 a.sidebar-title:focus {
  	text-decoration: none;
-	font-weight: bold;
 }
 
 .sidebar-foot {
