@@ -80,16 +80,17 @@ html {
 	text-align: center;
 }
 
-p.sidebar-title:link {
+p.sidebar-title {
 	color: #ffffff;	
 }
-/*
+
 a.sidebar-title:hover,
 a.sidebar-title:focus{
 	text-decoration: none;
 	font-weight: bold;
+	color: #ffffff;
 }
-*/
+
 .sidebar-foot {
 	font-size: .75rem;
 	color: #202020;
