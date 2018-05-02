@@ -2,8 +2,8 @@ title: Novanet UX - 2018 Winter Survey
 tagline: Making Meaning out of Usability Testing - Unpacking a Discovery Layer
 email: sandra.sawchuk@msvu.ca
 description: 
-baseurl: /winter-2018
-url: https://novanet-ux.github.io
+baseurl: ""
+url: "https://novanet-ux.github.io"
 repository: novanet-ux/winter-2018
 
 # Permalinks
