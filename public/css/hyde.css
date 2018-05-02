@@ -81,9 +81,9 @@ html {
 	color: #FFFFFF;
 }
 
-a.sidebar-title {
+sidebar-title a{
 	text-decoration: none;
-	color: #FFFFFF;
+	font-weight: bold;
 }
 
 .sidebar-foot {
