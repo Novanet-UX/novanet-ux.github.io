@@ -2,3 +2,8 @@
 layout: page
 title: Presentations
 ---
+{% for post in site.categories.conference_presentations reversed %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
