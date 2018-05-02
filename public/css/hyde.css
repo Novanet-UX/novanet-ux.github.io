@@ -78,9 +78,10 @@ html {
 
 .sidebar-title {
 	text-align: center;
+	color: #FFFFFF;
 }
 
-a.sidebar-title {
+.sidebar-title a {
 	color: #FFFFFF;
 }
 
@@ -112,11 +113,13 @@ a.sidebar-title:focus {
 .sidebar-nav {
   margin-bottom: 1rem;
 }
+
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
   color: #202020;
 }
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
  	text-decoration: none;
