@@ -81,9 +81,12 @@ html {
 	color: #ffffff;
 }
 
+a.sidebar-title:link {
+	color: #fffff;	
+}
+
 a.sidebar-title:hover,
-a.sidebar-title:focus
-a.sidebar-title:link{
+a.sidebar-title:focus{
 	text-decoration: none;
 	font-weight: bold;
 }
