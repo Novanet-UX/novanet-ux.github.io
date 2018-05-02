@@ -81,6 +81,11 @@ html {
 	color: #FFFFFF;
 }
 
+a.sidebar-title {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
 .sidebar-foot {
 	font-size: .75rem;
 	color: #202020;
