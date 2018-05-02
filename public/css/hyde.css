@@ -78,13 +78,12 @@ html {
 
 .sidebar-title {
 	text-align: center;
-	color: #ffffff;
 }
-/*
-.sidebar-title a {
+
+a.sidebar-title:link {
 	color: #ffffff;	
 }
-*/
+
 a.sidebar-title:hover,
 a.sidebar-title:focus{
 	text-decoration: none;
