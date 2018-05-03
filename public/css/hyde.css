@@ -89,12 +89,7 @@ a.sidebar-title:link {
 	color: #ffffff;	
 	text-decoration: none;
 }
-/*
-a.sidebar-title:hover,
-a.sidebar-title:focus{
-	
-}
-*/
+
 .sidebar-foot {
 	font-size: .75rem;
 	color: #202020;
