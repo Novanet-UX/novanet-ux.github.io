@@ -87,24 +87,19 @@ html {
 
 a.sidebar-title:link {
 	color: #ffffff;	
+	text-decoration: none;
 }
-
+/*
 a.sidebar-title:hover,
 a.sidebar-title:focus{
-	text-decoration: none;
-	color: #ffffff;
+	
 }
-
+*/
 .sidebar-foot {
 	font-size: .75rem;
 	color: #202020;
 }
 
-/* Sidebar links 
-.sidebar a {
-	color: #202020;
-}
-*/
 /* About section */
 .sidebar-about h1 {
   color: #202020;
