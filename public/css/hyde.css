@@ -80,7 +80,7 @@ html {
 	text-align: center;
 }
 
-p.sidebar-title {
+a.sidebar-title:link {
 	color: #ffffff;	
 }
 
