@@ -76,7 +76,7 @@ html {
   }
 }
 
-.sidebar-title {
+p.sidebar-title {
 	text-align: center;
 	color: #ffffff;
 }
@@ -88,7 +88,6 @@ a.sidebar-title:link {
 a.sidebar-title:hover,
 a.sidebar-title:focus{
 	text-decoration: none;
-	font-weight: bold;
 	color: #ffffff;
 }
 
